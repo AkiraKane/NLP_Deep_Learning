@@ -1,4 +1,4 @@
-#Time Line
+#Timeline
 ###Jul 24: Intro to NLP and Deep Learning
 ---
 #####[Lecture 1](https://youtu.be/kZteabVD8sU?list=PLcGUo322oqu9n4i0X3cRJgKyVy7OkDdoi)
